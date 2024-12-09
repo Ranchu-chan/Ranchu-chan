@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently learning how to code and am interested in machine learning and data science
 - 🔭 I’m currently working in the food industry and looking for interesting projects in the field and trying to improve my skills
-- 
+ 
 <!--
 **Ranchu-chan/Ranchu-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
